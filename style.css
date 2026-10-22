@@ -1,0 +1,193 @@
+* {
+    box-sizing: border-box;
+}
+
+.container {
+    width: 80%;
+    margin: auto;
+    background-color: #0d5ca5;
+    text-align: center;
+    border-radius: 10px;
+}
+
+.container .main h1 {
+    color: #ffffff;
+    padding-top: 30px;
+}
+
+.main h3 {
+    width: calc(100 / 4);
+    display: inline-block;
+    background-color: #547a9d;
+    color: #ffffff;
+    border-radius: 20px;
+    padding: 10px;
+    margin: 10px;
+}
+
+.about {
+    width: 80%;
+    margin: auto;
+    background-color: aliceblue;
+    text-align: left;
+    border-radius: 10px;
+}
+
+.second {
+    width: 100%;
+    display: inline-block;
+}
+
+.detail-par {
+    width: 90%;
+    color: black;
+    text-align: center;
+    padding: 10px;
+}
+
+.detail-par a {
+    float: left;
+}
+
+.detail-img h2 {
+    color: #0d5ca5;
+    padding: 5px;
+}
+
+.second h3 {
+    display: block;
+    padding: 1px;
+    background-color: #0d5ca5;
+}
+
+.second a {
+    color: #ffffff;
+    background-color: #0d5ca5;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 10px;
+}
+
+.detail-img img {
+    width: 10%;
+    float: left;
+    border-radius: 5px;
+}
+
+.skill {
+    width: 80%;
+    margin: auto;
+    background-color: aliceblue;
+    text-align: center;
+    border-radius: 10px;
+}
+
+.skill h2 {
+    text-align: left;
+    color: #0d5ca5;
+}
+
+.first h3 {
+    display: inline-block;
+    color: dodgerblue;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.skill-lang {
+    width: calc(100% / 4);
+    float: left;
+    padding: 10px;
+}
+
+.skill-lang .inner {
+    background-color: aliceblue;
+    padding: 10px;
+    border-radius: 8px;
+    text-align: left;
+}
+
+.clr{
+    clear: left;
+}
+
+.experiance {
+    width: 80%;
+    margin: auto;
+    background-color: aliceblue;
+    text-align: left;
+    border-radius: 10px;
+}
+
+.exper-detail{
+    padding: 10px;
+    margin: 10px;
+}
+
+.exper-detail h2{
+    text-align: left;
+    color: #0d5ca5;
+}
+
+.detail {
+    height: calc(90% / 2);
+    width: 100%;
+    display: inline-block;
+}
+
+.detail img {
+    width: 10%;
+    float: left;
+    margin-right: 20px;
+    padding: 10px;
+    
+}
+
+.contact{
+    width: 80%;
+    margin: auto;
+    background-color: #0d5ca5;
+    text-align: left;
+    border-radius: 10px;
+}
+
+.contact-me h2{
+    color: white;
+    text-align: left;
+    padding: 15px;
+}
+
+.contact-me p{
+    color: white;
+    text-align: left;
+    margin: 15px;
+}
+
+.contact-me .verydetail{
+    display: inline-block;
+    background-color: rgb(255 ,255 ,255 ,.1);
+    margin: 10px;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.contact-me .verydetail a{
+    color: white;
+}
+
+.end{
+    width: 80%;
+    margin: auto;
+    background-color: rgb(14, 14, 70);
+    text-align: center;
+    border-radius: 10px;
+}
+
+.arrry{
+    padding: 20px;
+    margin: 20px;
+}
+
+.end{
+    color: white;
+}
